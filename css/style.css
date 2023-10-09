@@ -1,0 +1,15 @@
+body{
+    color: cadetblue;
+}
+p{
+    color: yellow;
+}
+h2{
+    align-items: flex-end;
+    color: brown;
+    justify-content: center;
+}
+h3{
+    align-items: center;
+    color: blue;
+}
